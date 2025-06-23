@@ -2,3 +2,4 @@
 venv/
 *.pkl
 __pycache__/
+dataset/
